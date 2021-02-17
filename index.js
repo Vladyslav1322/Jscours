@@ -1,5 +1,5 @@
 
-function num (x, y) {
+ function num (x, y) {
     if (y > x) {
         return num(y, x)};
 
